@@ -1,0 +1,2 @@
+# Canada-Anti-Fraud-Centre-National-Fraud-Trend-Analysis
+This project analyzes Canadian Anti-Fraud Centre (CAFC) fraud reporting data to identify national patterns in reported fraud, financial losses, fraud categories, solicitation channels, geographic distribution, and victim age groups.  The objective is to transform reported fraud data into clear insights that can support fraud-prevention strategy.
